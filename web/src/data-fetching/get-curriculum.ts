@@ -84,7 +84,7 @@ export function getIdToPathSegmentsMap({ rwdBlocks }: Curriculum) {
         superblock: 'responsive-web-design',
         block: blockName,
         dashedName: challenge.dashedName,
-        id: challenge.id
+        id: challenge.id,
       };
     }
   }
